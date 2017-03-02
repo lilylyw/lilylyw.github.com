@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title>任务二</title>
+<style type="text/css">
+.photo{
+    width:100px;
+	height:80px;
+	   }
+.table-a table{border:1px}
+</style>
+</head>
+
+<body>
+<h1>文章一级标题</h1>
+<h2 style="color:#666666">文章一级标题</h2>
+<p style="color:#666666">文章作者&nbsp;文章发表时间</p>
+<p>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，换行了</p><br>
+<p>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落,这是一个很长很长的段落，这是一个很长很长的段落，<a href="http://ife.baidu.com">这里有一个链接点击后打开新窗口链接到http://ife.baidu.com</a>这是一个很长很长的段落，这是一个很长很长的段落，<b>这里有个粗体字</b>,这是一个很长很长的段落,这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落,这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落,这是一个很长很长的段落，这是一个很长很长的段落。</p>
+<img src="file:///D|/cclab/timg.jpg" alt="百度图片"/><br>
+<p>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，换行了</p><br>
+<p>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落,这是一个很长很长的段落，这是一个很长很长的段落，<a href="http://ife.baidu.com">这里有一个链接点击后打开新窗口链接到http://ife.baidu.com</a>这是一个很长很长的段落，这是一个很长很长的段落，<b>这里有个粗体字</b>,这是一个很长很长的段落,这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落,这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落,这是一个很长很长的段落，这是一个很长很长的段落。</p>
+
+
+<h1>另一篇文章一级标题</h1>
+<h2 style="color:#666666">文章一级标题</h2>
+<p style="color:#666666">文章作者&nbsp;文章发表时间</p>
+<p>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落，换行了</p><br>
+<p>这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落,这是一个很长很长的段落，这是一个很长很长的段落，<a href="http://ife.baidu.com">这里有一个链接点击后打开新窗口链接到http://ife.baidu.com</a>这是一个很长很长的段落，这是一个很长很长的段落，<b>这里有个粗体字</b>,这是一个很长很长的段落,这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落,这是一个很长很长的段落，这是一个很长很长的段落，这是一个很长很长的段落,这是一个很长很长的段落，这是一个很长很长的段落。</p>
+<img src="file:///D|/cclab/timg.jpg" alt="百度图片"/><br>
+<ul>列表项目一</ul>
+<ul>列表项目二</ul>
+<ul>列表项目三</ul>
+
+
+<h1>图片</h1>
+<div style="position:relative;width:170px;height:89px;">
+<img src="images/tim.jpg" width=170px;height=89px alt="百度图片">
+<span style="position:absolute;top:0;left:0;">好看的图片</span>
+</div>
+<br>
+
+<div style="position:relative;width:170px;height:89px;">
+<img src="images/tim.jpg" width=170px;height=89px alt="百度图片">
+<span style="position:absolute;top:0;left:0;">好看的图片</span>
+</div>
+<br>
+
+<div style="position:relative;width:170px;height:89px;">
+<img src="images/tim.jpg" width=170px;height=89px alt="百度图片">
+<span style="position:absolute;top:0;left:0;">好看的图片</span>
+</div>
+<br>
+
+<div style="position:relative;width:170px;height:89px;">
+<img src="images/tim.jpg" width=170px;height=89px alt="百度图片">
+<span style="position:absolute;top:0;left:0;">好看的图片</span>
+</div>
+<br>
+
+<div style="position:relative;width:170px;height:89px;">
+<img src="images/tim.jpg" width=170px;height=89px alt="百度图片">
+<span style="position:absolute;top:0;left:0;">好看的图片</span>
+</div>
+<br>
+
+
+<h1>最后一篇文章一级标题</h1>
+<h2 style="color:#666666">文章二级标题</h2>
+<p style="color:#666666">文章作者&nbsp;文章发表时间</p>
+<ul>1.排名1</ul>
+<ul>2.排名2</ul>
+<ul>3.排名3</ul>
+<p>下面是一个表格，我这里给表格加了一个border="1"好让你看出是一个表格，你们不用写html时候不需要加</p><br>
+
+<div class="table-a">
+<table width="800">
+<tbody>
+<tr style="background:#333333">
+<td>表头</td>
+<td>表头</td>
+<td>表头</td>
+</tr>
+<tr>
+<td>表内容单元格</td>
+<td>表内容单元格</td>
+<td>表内容单元格</td>
+</tr>
+<tr>
+<td>表内容单元格</td>
+<td>表内容单元格</td>
+<td>表内容单元格</td>
+</tr>
+<tr>
+<td>表内容单元格</td>
+<td>表内容单元格</td>
+<td>表内容单元格</td>
+</tr>
+<tr>
+<td>表内容单元格</td>
+<td>表内容单元格</td>
+<td>表内容单元格</td>
+</tr>
+<tr>
+<td style="background:#CCCCCC" colspan="3">
+总计&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1000
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+
+<h3>这里以后是一个侧栏，这是侧栏的标题</h3>
+<form>
+请输入邮箱地址
+<input type:"text" name="dizhi"  value="这是一个文本输入框" size="20" maxlength="20"/>
+<br>
+<span style="color:#666666">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮箱地址请按要求格式输入</span>
+</form>
+<br>
+<form>
+请输入密码
+<input type="password" name="T1" size="20"/>
+</form>
+<form>
+请重复输入密码
+<input type="password" name="T1" size="20"/>
+<br>
+<span style="color:#666666">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;密码请为6-16位英文数字</span>
+</form>
+<br>
+<form method="post" action>
+性别
+<input type="radio" name="gender" value="男" checked/>男
+<input type="radio" name="gender" value="女"/>女
+</form>
+<br>
+<form>
+城市
+<select size="1" name="sport">
+<option>北京</option>
+<option>武汉</option>
+<option>上海</option>
+</select>
+</form>
+<br>
+<form>
+爱好
+<input type="checkbox" name="interest" value="运动"/>运动
+<input type="checkbox" name="interest" value="艺术"/>艺术
+<input type="checkbox" name="interest" value="科学"/>艺术
+</form>
+<textarea name="memo" cols="60" rows="2" wrap="virtual">这是多行文本框输入您的个人描述</textarea>
+<br>
+<br>
+
+<input type="submit" style="width:90%;height:20px;background:#0066CC;color:white;" name="s1" value="提交">
+
